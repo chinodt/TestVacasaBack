@@ -1,0 +1,13 @@
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa.API.Test.BL.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa.API.Test.BL.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa,API.Test.BE.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa.API.Test.DAL.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Newtonsoft.Json.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa,API.Test.BE.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Vacasa.API.Test.DAL.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\bin\Release\Newtonsoft.Json.xml
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\obj\Release\Vacasa.API.Test.BL.csprojAssemblyReference.cache
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\obj\Release\Vacasa.API.Test.BL.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\obj\Release\Vacasa.API.Test.BL.csproj.CopyComplete
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\obj\Release\Vacasa.API.Test.BL.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.BL\obj\Release\Vacasa.API.Test.BL.pdb

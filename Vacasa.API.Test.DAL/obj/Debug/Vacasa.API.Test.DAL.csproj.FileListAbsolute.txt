@@ -1,0 +1,11 @@
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Vacasa.API.Test.DAL.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Vacasa.API.Test.DAL.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\obj\Debug\Vacasa.API.Test.DAL.csprojAssemblyReference.cache
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\obj\Debug\Vacasa.API.Test.DAL.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\obj\Debug\Vacasa.API.Test.DAL.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\obj\Debug\Vacasa.API.Test.DAL.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\obj\Debug\Vacasa.API.Test.DAL.csproj.CopyComplete
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Vacasa,API.Test.BE.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa.API.Test.DAL\bin\Debug\Vacasa,API.Test.BE.pdb

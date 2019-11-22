@@ -1,0 +1,5 @@
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa,API.Test.BE\bin\Debug\Vacasa,API.Test.BE.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa,API.Test.BE\bin\Debug\Vacasa,API.Test.BE.pdb
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa,API.Test.BE\obj\Debug\Vacasa,API.Test.BE.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa,API.Test.BE\obj\Debug\Vacasa,API.Test.BE.dll
+C:\Aplicaciones\Personal\TestVacasaBack\TestVacasaBack\Vacasa,API.Test.BE\obj\Debug\Vacasa,API.Test.BE.pdb
